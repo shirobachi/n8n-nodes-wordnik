@@ -1,15 +1,15 @@
 {
-  "name": "n8n-nodes-<...>",
+  "name": "n8n-nodes-wordnik",
   "version": "0.1.0",
-  "description": "",
+  "description": "This is Wordnik API node for n8n automation tool.",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "Simon Hryszko",
+    "email": "simon@hryszko.dev"
   },
   "repository": {
     "type": "git",
