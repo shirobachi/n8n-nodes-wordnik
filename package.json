@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-wordnik",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is Wordnik API node for n8n automation tool.",
   "keywords": [
     "n8n-community-node-package"
