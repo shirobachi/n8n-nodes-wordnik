@@ -162,6 +162,12 @@ const nodeOperations: INodePropertyOptions[] = [
 								value: 'word',
 								description: 'Retrieve a information about specific word',
 							},
+							{
+								// eslint-disable-next-line n8n-nodes-base/node-param-resource-with-plural-option
+								name: 'Words',
+								value: 'words',
+								description: 'Retrieve a information about specific word',
+							},
 						],
 						default: 'word',
 						required: true,
