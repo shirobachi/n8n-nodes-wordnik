@@ -972,7 +972,6 @@ const nodeOperations: INodePropertyOptions[] = [
 			let word = '';
 			if(resource === 'word') {
 				word = this.getNodeParameter('theWord', i) as string + '/';
-				console.log(this.getNodeParameter('theWord', i) as string);
 			}
 
 			const options: OptionsWithUri = {
